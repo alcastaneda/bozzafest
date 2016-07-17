@@ -6,3 +6,25 @@ img{
   width: 70%;
 }*/
 
+ul{
+  list-style: none;
+  display: inline-block;
+}
+
+.center{
+  color: #FF6961;
+}
+
+h1 {
+  color: #11294f;
+}
+
+h3 {
+  color: #FF6961;
+}
+
+.left, .right{
+  display: inline-block;
+  width: 50%;
+}
+
